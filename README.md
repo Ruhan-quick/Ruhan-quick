@@ -2,7 +2,7 @@
 
 <ul>
   <li>👋 Hi, I’m @Ruhan-Kabir </li>
-  <li>👀  Focused Web Development </li>
+  <li>👀  Focused in MERN Stack Development </li>
   <li>🌱 Working with React, MongoDB, Node.js, Redux.....</li>
   <li>💞️ I’m looking to collaborate on .....</li>
   <li>📫 How to reach me ...<a href="https://www.linkedin.com/in/ruhan-kabir//">LinkedIn</a></li>

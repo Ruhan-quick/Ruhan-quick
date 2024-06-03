@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Ruhan Kabir</h1>
-<h3 align="center">Computer Science student with a strong foundation in software engineering principles, and an understanding of databases, good programming, and analytical skills, and a specialization in MERN web development.</h3>
+<h3 align="center">Computer Science graduate with a strong foundation in software engineering principles, and an understanding of databases, good programming, and analytical skills, and a specialization in MERN web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhan-quick&label=Profile%20views&color=0e75b6&style=flat" alt="ruhan-quick" /> </p>
 

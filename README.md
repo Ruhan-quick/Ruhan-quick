@@ -2,7 +2,7 @@
 <h3 align="center">
   Computer Science graduate with a strong foundation in software engineering
   principles, and an understanding of databases, good programming, and
-  analytical skills, and a specialization in MERN web development.
+  analytical skills, and a specialization in Quick Learning.
 </h3>
 
 <p align="left">

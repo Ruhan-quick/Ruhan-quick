@@ -46,16 +46,15 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruhan-quick&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhan-quick&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruhan-quick&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruhan-quick&theme=radical&hide_border=true&background=000000&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhan-quick&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruhan-quick&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=2196F3" alt="Top Languages" width="60%" />
 </div>
-
 ---
 
 ### 🏆 Career Highlights & Projects

@@ -1,459 +1,82 @@
-<h1 align="center">Hi 👋, I'm S M Ruhan Kabir</h1>
-<h3 align="center">
-  Computer Science graduate with a strong foundation in software engineering
-  principles, and an understanding of databases, good programming, and
-  analytical skills, and a specialization in Quick Learning.
-</h3>
+<h1 align="center">Hi there, I'm S M Ruhan Kabir 👋</h1>
+<h3 align="center">Full-Stack Software Engineer | Backend & Architecture Specialist | RUET CSE Graduate</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=ruhan-quick&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ruhan-quick"
-  />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+eBusiness+Soft+Solutions;Full-Stack+PHP+%26+JavaScript+Developer;React+%26+JS+Instructor+%40+Programming+Hero;IoT%2C+Robotics+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-- 📫 How to reach me **ruhanquick@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ruhan-kabir" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ruhan-kabir"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/ruhanmdkr" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="ruhanmdkr"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://codeforces.com/profile/_InshaAllah_" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png"
-      alt="ruhankabir"
-      height="30"
-      width="40"
-  /></a>
+### 👨‍💻 About Me
+
+- 💼 Currently working as a **Software Engineer at eBusiness Soft Solutions Ltd.**, developing and managing public university ERP software.
+- 👨‍🏫 Sharing knowledge as a **React & JavaScript Instructor at Programming Hero**.
+- 🔭 Recently completed freelance work on **Saka Multivendor E-Commerce** and developed **Kaizen Mart**.
+- 🎓 Graduated with a BSc in **Computer Science and Engineering** from Rajshahi University of Engineering & Technology (**RUET**).
+- 🔬 Authored published IEEE research on student distraction detection using Convolutional Neural Networks (CNN).
+- 🧩 Strong analytical skills with **250+ problems solved on LeetCode**, focusing on algorithmic patterns.
+- 🤖 Hardware hobbyist tinkering with IoT, **ESP8266/ESP32-S3, Arduino**, and Android-controlled robotics.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-      alt="canvasjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-      alt="d3js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-      alt="framer"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-      alt="seaborn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-      alt="svelte"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/products/xd.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+---
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhan-quick&show_icons=true&locale=en&layout=compact"
-    alt="ruhan-quick"
-  />
-</p>
+### 📊 GitHub Statistics
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ruhan-quick&"
-    alt="ruhan-quick"
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🏆 Career Highlights & Projects
+
+* **Public University ERP System:** Backend and architecture management utilizing PHP and Oracle at eBusiness Soft Solutions Ltd.
+* **Saka Multivendor E-Commerce:** Freelance full-stack multivendor platform architecture and deployment.
+* **Student Distraction Detection (CNN):** Academic research focusing on deep learning applications for educational environments (Published/IEEE).
+* **IoT & Robotics:** Developed an Android-controlled 4WD rover and programmed microcontrollers (ESP32/ESP8266) for hardware integrations.
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>

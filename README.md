@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Backend & Architecture Specialist | RUET CSE Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+eBusiness+Soft+Solutions;Full-Stack+PHP+%26+JavaScript+Developer;React+%26+JS+Instructor+%40+Programming+Hero;IoT%2C+Robotics+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+eBusiness+Soft+Solutions;Full-Stack+PHP+%26+JavaScript+Developer;IoT%2C+Robotics+%26+Machine+Learning+Enthusiast;Algorithmic+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
